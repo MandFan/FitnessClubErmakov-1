@@ -1,6 +1,6 @@
-# FitnessClubErmakov
+# FitnessClubHozhiakbar
 
-<h1> 3-ИСП9-19ВБ Ермаков Даниил </h1>
+<h1> 3-ИСП9-19ВБ Исмаилжанов Хожиакбар </h1>
 
 Структура проекта
 <br> ![image](https://user-images.githubusercontent.com/74093781/220747667-3cc3891e-d4e3-4a58-a0c5-88e3a91c8201.png)
